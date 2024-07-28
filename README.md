@@ -1,4 +1,5 @@
 # BlogPost API
+__YOU MUST CONFIGURE A LOCAL DB TO USE THE API SUCCESSFULLY. Follow this link to SQL Server Management Tutorial [Click Here!](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)__
 This repository contains the API for the BlogPosts project following this [Udemy Course by Sameer Saini](https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/?couponCode=THANKSLEARNER24). 
 It is an ASP.NET Core REST API called by an Angular project. 
 ## Table of Contents
