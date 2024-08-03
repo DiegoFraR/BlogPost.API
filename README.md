@@ -41,4 +41,4 @@ dotnet build
 dotnet run
 ````
 5. The terminal will look something like this if successful.
-6. You can open the Swagger API website located at the following URL: *https://localhost:7192/swagger*. This means you successfully launched the application. Now you must start the UI for the program located here(Coming Soon!).
+6. You can open the Swagger API website located at the following URL: *https://localhost:7192/swagger*. This means you successfully launched the application. Now you must start the UI for the program located [here!](https://github.com/DiegoFraR/BlogPost-UI).
